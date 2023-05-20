@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PlainText</string>
+    <string name="textSloganText">\"The most secure \npassword manager\"</string>
+    <string name="textBobAndAlice">Bob and Alice</string>
+    <string name="configs">Configuracoes</string>
+    <string name="sobre">Sobre</string>
+</resources>
